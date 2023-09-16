@@ -1,12 +1,11 @@
 <!-- markdownlint-disable -->
 
-<h1 align="center">
+ <div align="center">
     <img alt="Logo" src="public/logo.svg" />
-</h1>
+  <h1>  Shorts Summary</h1> 
+ </div>
 
-## 💻 Sobre o projeto
-
-Shorts Summary - é uma aplicação web para criar resumo de vídeos shorts do Youtube utilizando Inteligência Artificial para transcrever o conteúdo do vídeo e realizar o resumo do conteúdo. Esse projeto é desenvolvido na trilha Foundations na edição NLW IA.
+####  É uma aplicação web para criar resumo de vídeos shorts do Youtube utilizando Inteligência Artificial para transcrever o conteúdo do vídeo e realizar o resumo do conteúdo. Esse projeto é desenvolvido na trilha Foundations na edição NLW IA. 💻
 
 ## 🛠 Tecnologias
 
